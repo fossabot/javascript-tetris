@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkirogum%2Fjavascript-tetris.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkirogum%2Fjavascript-tetris?ref=badge_shield)
+
 Javascript Tetris
 =================
 
@@ -26,3 +28,7 @@ License
 [MIT](http://en.wikipedia.org/wiki/MIT_License) license.
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkirogum%2Fjavascript-tetris.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkirogum%2Fjavascript-tetris?ref=badge_large)
